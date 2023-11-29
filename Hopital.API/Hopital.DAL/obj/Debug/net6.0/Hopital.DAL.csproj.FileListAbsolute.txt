@@ -1,0 +1,14 @@
+G:\pro\Hopital.API\Hopital.DAL\bin\Debug\net6.0\Hopital.DAL.deps.json
+G:\pro\Hopital.API\Hopital.DAL\bin\Debug\net6.0\Hopital.DAL.runtimeconfig.json
+G:\pro\Hopital.API\Hopital.DAL\bin\Debug\net6.0\Hopital.DAL.dll
+G:\pro\Hopital.API\Hopital.DAL\bin\Debug\net6.0\Hopital.DAL.pdb
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.csproj.AssemblyReference.cache
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.AssemblyInfoInputs.cache
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.AssemblyInfo.cs
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.csproj.CoreCompileInputs.cache
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.dll
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\refint\Hopital.DAL.dll
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.pdb
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\Hopital.DAL.genruntimeconfig.cache
+G:\pro\Hopital.API\Hopital.DAL\obj\Debug\net6.0\ref\Hopital.DAL.dll

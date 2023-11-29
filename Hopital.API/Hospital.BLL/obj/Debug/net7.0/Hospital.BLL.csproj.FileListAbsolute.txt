@@ -1,0 +1,15 @@
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.AssemblyInfoInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.AssemblyInfo.cs
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net7.0\Hospital.BLL.deps.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net7.0\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net7.0\Hospital.BLL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.csproj.CopyComplete
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\refint\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\Hospital.BLL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net7.0\ref\Hospital.BLL.dll

@@ -1,0 +1,354 @@
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.Development.json
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.json
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.exe
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.deps.json
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.runtimeconfig.json
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.pdb
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Core.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Identity.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Humanizer.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.CodeDom.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Memory.Data.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Json.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.dll
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.pdb
+G:\pro\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.pdb
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.AssemblyReference.cache
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfoInputs.cache
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfo.cs
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CoreCompileInputs.cache
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cs
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cache
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.Hopital.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Hopital.API.props
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hopital.API.props
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hopital.API.props
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.pack.json
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\scopedcss\bundle\Hopital.API.styles.css
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CopyComplete
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.dll
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\refint\Hopital.API.dll
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.pdb
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.genruntimeconfig.cache
+G:\pro\Hopital.API\Hopital.API\obj\Debug\net6.0\ref\Hopital.API.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.exe
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.deps.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.runtimeconfig.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Core.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Humanizer.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.AssemblyReference.cache
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfoInputs.cache
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfo.cs
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CoreCompileInputs.cache
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\scopedcss\bundle\Hopital.API.styles.css
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CopyComplete
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\refint\Hopital.API.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.genruntimeconfig.cache
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\obj\Debug\net6.0\ref\Hopital.API.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+Y:\Graduation Project\14-11\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.exe
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.deps.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.runtimeconfig.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.AssemblyReference.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfoInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfo.cs
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.Hopital.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Hopital.API.props
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hopital.API.props
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hopital.API.props
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\scopedcss\bundle\Hopital.API.styles.css
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CopyComplete
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\refint\Hopital.API.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.genruntimeconfig.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hopital.API\obj\Debug\net6.0\ref\Hopital.API.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\appsettings.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.exe
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.deps.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.runtimeconfig.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hopital.API.pdb
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Humanizer.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\bin\Debug\net6.0\Hospital.DAL.pdb
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.AssemblyReference.cache
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfoInputs.cache
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.AssemblyInfo.cs
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CoreCompileInputs.cache
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\scopedcss\bundle\Hopital.API.styles.css
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.csproj.CopyComplete
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\refint\Hopital.API.dll
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.pdb
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\Hopital.API.genruntimeconfig.cache
+Y:\Graduation Project\Final\Hopital.API\Hopital.API\obj\Debug\net6.0\ref\Hopital.API.dll

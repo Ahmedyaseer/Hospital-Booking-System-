@@ -1,0 +1,60 @@
+G:\pro\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.deps.json
+G:\pro\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.dll
+G:\pro\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.pdb
+G:\pro\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.dll
+G:\pro\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.pdb
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.AssemblyReference.cache
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfoInputs.cache
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfo.cs
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CopyComplete
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.dll
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\refint\Hospital.BLL.dll
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.pdb
+G:\pro\Hopital.API\Hospital.BLL\obj\Debug\net6.0\ref\Hospital.BLL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.deps.json
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.AssemblyReference.cache
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfoInputs.cache
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfo.cs
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CopyComplete
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\refint\Hospital.BLL.dll
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\14-11\Hopital.API\Hospital.BLL\obj\Debug\net6.0\ref\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.deps.json
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfoInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfo.cs
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CopyComplete
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\refint\Hospital.BLL.dll
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.pdb
+C:\Users\LENOVO-Lapstore\Desktop\New folder (8)\Hopital.API\Hospital.BLL\obj\Debug\net6.0\ref\Hospital.BLL.dll
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.deps.json
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.dll
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\bin\Debug\net6.0\Hospital.DAL.pdb
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.AssemblyReference.cache
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfoInputs.cache
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.AssemblyInfo.cs
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CoreCompileInputs.cache
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.csproj.CopyComplete
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.dll
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\refint\Hospital.BLL.dll
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\Hospital.BLL.pdb
+Y:\Graduation Project\Final\Hopital.API\Hospital.BLL\obj\Debug\net6.0\ref\Hospital.BLL.dll
